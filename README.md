@@ -1,4 +1,4 @@
-# Task Planner ![Static Badge](https://img.shields.io/badge/Playstore%20-%20Coming%20Soon%20-%20red?style=plastic&labelColor=Red)
+# Task Planner ![Static Badge](https://img.shields.io/badge/On%20Playstore%20-%20Coming%20Soon%20-%20red?style=plastic&labelColor=Red)
 
 ## Introduction
 This Task planner app is a modern application built from the ground up using Kotlin and Jetpack Compose. The application demonstrates the use of the latest tools and libraries in Android development to create a fully functional, reactive user experience.
